@@ -1,0 +1,2 @@
+Trying Rust
+using Cargo 
